@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gerónimo Basso Sosa</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 - I'm currently Studing at the Universidad Europea de Madrid
 
-- 👨‍💻 Some of my fun projects are available at [https://github.com/Geronimo-Basso]
-
-- 💬 Ask me about **Python, Java, C++, PHP, HTML, CSS , GitHub, Git, SQL, and more. **
-
-- 📫 How to reach me **geronimobasso@outlook.com**
+- 💬 Ask me about **Python, Java, C++, HTML, CSS , GitHub, Git, SQL, and more. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
